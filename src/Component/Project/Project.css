@@ -1,0 +1,52 @@
+.project {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    background-color: #00000C;
+    opacity: 1;
+    background-image: radial-gradient(ellipse farthest-corner at 4px 4px, #0C0C0F, #0C0C0F 50%, #00000C 50%);
+    background-size: 4px 4px;
+    justify-content: center;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 7%;
+}
+
+.projectBarr {
+    width: 100%;
+    border-right: 4px solid aqua;
+    height: 50px;
+    background-color: aqua;
+    width: 2px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.project-title {
+    color: white;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.project-icons {
+    width: 300px;
+    justify-content: center;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.project-icon-bar {
+    width: 50px;
+    border: 1px solid aqua !important;
+    border-radius: 50%;
+    padding: 10px;
+    filter: invert(48%) sepia(15%) saturate(3207%) hue-rotate(130deg) brightness(200%) contrast(100%);
+}
+.project-button{
+    margin-top: 30px;
+    width:160px;
+    color:aqua;
+    border:2px solid aqua;
+    padding: 10px;
+    background: transparent;
+}
